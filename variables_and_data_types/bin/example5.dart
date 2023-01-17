@@ -1,5 +1,6 @@
+// ignore_for_file: unused_local_variable
+
 void main(List<String> args) {
-  // ignore: unused_local_variable
   final age = 10;
 
   // constants cannot be assigned a non-const value.
